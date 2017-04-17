@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/0.png</file>
+        <file>pic/0_press.png</file>
+        <file>pic/1.png</file>
+        <file>pic/1_press.png</file>
+        <file>pic/2.png</file>
+        <file>pic/2_press.png</file>
+        <file>pic/3.png</file>
+        <file>pic/3_press.png</file>
+        <file>pic/4.png</file>
+        <file>pic/4_press.png</file>
+        <file>pic/5.png</file>
+        <file>pic/5_press.png</file>
+        <file>pic/6.png</file>
+        <file>pic/6_press.png</file>
+        <file>pic/7.png</file>
+        <file>pic/7_press.png</file>
+        <file>pic/8.png</file>
+        <file>pic/8_press.png</file>
+        <file>pic/background.png</file>
+        <file>pic/explode.png</file>
+        <file>pic/flag.png</file>
+        <file>pic/GameOver.png</file>
+        <file>pic/normal.png</file>
+        <file>pic/normal_press.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/win.png</file>
+        <file>pic/-1.png</file>
+    </qresource>
+</RCC>
